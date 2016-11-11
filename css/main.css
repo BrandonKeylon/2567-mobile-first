@@ -31,24 +31,6 @@
 	display: table;
 }
 
-img {
-	max-width: 100%;
-}
-
-[class*='col-'] {
-	float: left;
-	padding-right: 20px;
-	margin-bottom: 20px;	
-}
-
-[class*='col-']:last-of-type {
-  padding-right: 0;
-}
-
-.red {
-	background-color: red;
-	height: 50px;
-}
 
 /*--First Fractions--*/
 
